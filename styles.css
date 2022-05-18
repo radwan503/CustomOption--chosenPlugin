@@ -1,0 +1,10 @@
+body {
+  background: orange;
+}
+
+#categoryAdd {
+  display: none;
+}
+#categoryAdd.show {
+  display: block;
+}
